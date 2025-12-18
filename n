@@ -1,3 +1,0 @@
-#!/usr/bin/env zsh
-
-exec "./bin/node-v24.12.0-darwin-arm64/bin/node" "$@"
